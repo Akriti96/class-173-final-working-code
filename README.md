@@ -7,3 +7,8 @@
 
 # Tables database
 ![](https://github.com/Akriti96/class-173-final-working-code/blob/main/Screenshot%202022-06-06%20122243.png?raw=true)
+
+# Dishes database
+![](https://github.com/Akriti96/class-173-final-working-code/blob/main/Screenshot%202022-06-06%20122316.png?raw=true)
+![](https://github.com/Akriti96/class-173-final-working-code/blob/main/Screenshot%202022-06-06%20122335.png?raw=true)
+![](https://github.com/Akriti96/class-173-final-working-code/blob/main/Screenshot%202022-06-06%20122350.png?raw=true)
